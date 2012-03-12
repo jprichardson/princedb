@@ -1,6 +1,6 @@
 {
   "author": "JP Richardson <jprichardson@gmail.com> (http://gitpilot.com)",
-  "name": "prince",
+  "name": "princedb",
   "description": "A versioned JSON database built on MongoDB (very experimental and unstable)",
   "version": "0.0.1",
   "repository": {
